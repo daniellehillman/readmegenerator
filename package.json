@@ -1,0 +1,24 @@
+{
+  "name": "ReadMe-Generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniellehillman/readmegenerator.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/daniellehillman/readmegenerator/issues"
+  },
+  "homepage": "https://github.com/daniellehillman/readmegenerator#readme",
+  "devDependencies": {}
+}
