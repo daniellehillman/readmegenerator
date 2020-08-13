@@ -5,16 +5,17 @@ function generateMarkdown(answers) {
 ![badge](https://img.shields.io/badge/license-${answers.license}-blue.svg)
 
 
+
 ## Table of Contents
 
-Title
-2.[Description](#description)
+1. [Title](#title)
+2. [Description](#description)
 3. [Usage](#usage)
 4. [Installation](#installation)
-5. [Contributing](#contributions)
-6. [Tests](#test)
-7. [Contact/Questions](#questions)
-8. [GitHub](#github)
+5. [License](#license)
+6. [Contributing](#contributions)
+7. [Tests](#test)
+8. [Contact/Questions](#questions)
 
 
 ## Description 
@@ -26,6 +27,9 @@ ${answers.usage}
 ## Installation 
 ${answers.installation}
 
+## License
+${answers.license}
+
 ## Contributions
 ${answers.contributions}
 
@@ -33,10 +37,11 @@ ${answers.contributions}
 ${answers.test}
 
 ## Contact/ Questions
-If you have any questions, please contact me at ${answers.email} 
+> If you have any questions, please contact me at: hillm108@mail.chapman.edu 
 
-## Github
-My GitHub link is [${answers.github}](https://github.com/${answers.github}) 
+> Link to my Github: [daniellehillman](https://github.com/daniellehillman) 
+
+ 
 
  `
 }
